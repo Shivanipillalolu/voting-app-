@@ -27,6 +27,7 @@ This guide walks you through:
 
 ---
 
+
 ## 📊 Observability
 
 - Integrated dashboards for metrics and monitoring:
@@ -51,8 +52,3 @@ This project includes the following components:
 - 🟢 **Result App**: A Node.js web app ([/result](/result)) displaying voting results in real-time.
 
 ---
-
-Let me know if you'd like me to:
-- Add a **"Getting Started"** or **"Deployment Steps"** section.
-- Include **your name or GitHub profile** in the footer.
-- Help replace the images or generate a custom architecture diagram for your version.
