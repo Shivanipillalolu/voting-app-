@@ -21,12 +21,6 @@ This guide walks you through:
 
 ---
 
-## 🧠 Architecture
-
-![Architecture diagram](k8s-kind-voting-app.png)
-
----
-
 
 ## 📊 Observability
 
